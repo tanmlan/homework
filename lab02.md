@@ -14,7 +14,7 @@
 
 以下是制作游戏的软件界面：
 
-![(https://github.com/tanmlan/swi-homework/blob/gh-pages/images/construct1.png?raw=true)
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/construct1.png?raw=true)
 这是设计整个游戏的外观界面的窗口。
 
 ![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/construct2.png?raw=true)
