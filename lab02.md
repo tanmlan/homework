@@ -7,7 +7,8 @@
 
 现在来分享一下我制作第一个小游戏的心得。
 
-我是根据官网的新手教程来制作的 : https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2
+我是根据官网的新手教程来制作的 : 
+[https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2](Constuct 2新手教程)
 教程很清晰详细（我这样的渣渣都行），所以我就不重复解释啦。
 
 这个教程是教我们制作一个叫"Ghost Shooter"的简单小游戏，游戏操作就是玩家射击怪物可以得分，但要小心不要被怪物碰到，不然就会game over了。虽然只是一个小游戏，却花了我足足两个小时来完成（初学小白请多包涵）。
