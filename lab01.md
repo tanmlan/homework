@@ -9,6 +9,10 @@ title: 一款既能帮助自己也能帮助大自然的软件
 
 这款手机软件叫做“Forest”，它是一个能帮助我们暂时远离手机，专心于目前工作或学习的App。它的使用方法就是每当我们想要有一段专心工作或学习的时间时，就可以在软件中种下一颗种子，然后放下手机去做事。在这段时间里，这颗种子会慢慢的长大成一棵树。若我们忍不住去滑手机，这棵树就会枯萎而死！而若我们每天都坚持种树，这些我们种过的健康的树、枯萎的树会慢慢集合成一个美丽树林。
 
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/forest-app.jpg?raw=true)
+
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/forest.png?raw=true)
+
 但在应用商城里也有不少类似功能的软件，那Forest特别的地方在哪里呢？
 
 它不但能种虚拟的树，还能种真的树呢！这就是我欣赏以及喜欢这个软件的地方。
