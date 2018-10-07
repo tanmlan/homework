@@ -14,10 +14,10 @@
 
 以下是制作游戏的软件界面：
 
-![](C:\Users\MuhLan\Documents\swi-homework\images\construct1.png)
+![(https://github.com/tanmlan/swi-homework/blob/gh-pages/images/construct1.png?raw=true)
 这是设计整个游戏的外观界面的窗口。
 
-![](C:\Users\MuhLan\Documents\swi-homework\images\construct2.png)
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/construct2.png?raw=true)
 这是添加游戏操作及功能的窗口。
 
 
@@ -26,10 +26,10 @@
 
 然后就是完成后的游戏界面啦~
 
-![](C:\Users\MuhLan\Documents\swi-homework\images\game1.png)
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/game1.png?raw=true)
 
 哎呀，不小心被怪物吃掉了~！
 
-![](C:\Users\MuhLan\Documents\swi-homework\images\shoot3.gif)
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/shoot3.gif?raw=true)
 
-作为初学小白我还不太会写技术博客，不过我会继续努力哒！谢谢阅读~ ^_^
+谢谢阅读！
