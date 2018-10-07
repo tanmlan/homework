@@ -19,4 +19,6 @@ title: 一款既能帮助自己也能帮助大自然的软件
 
 因为Forest有跟一个叫做“Trees for the future”的种树组织合作。每当我们种完一棵树，就会得到一些虚拟金币。每当我们累积了2500个金币时，就能在这个世界上种植一颗真树了。通过自己努力为世界上的环保事业出一份力，真的是一件非常有意义的事啊！
 
+![](https://github.com/tanmlan/swi-homework/blob/gh-pages/images/01f4fe687dab03a20bdd2ba079881257.png?raw=true)
+
 希望能有更多人知道这个软件。
